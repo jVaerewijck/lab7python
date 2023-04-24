@@ -1,3 +1,3 @@
 # lab7python
-lab7 \n
+lab7  
 github werkt niet mee :(
